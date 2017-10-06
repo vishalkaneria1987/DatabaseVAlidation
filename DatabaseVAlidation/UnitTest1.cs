@@ -28,7 +28,7 @@ namespace DatabaseVAlidation
 
                 // print a set of column headers
                 Console.WriteLine(" LoadTestRunId   NetworkId   NetworkName");
-                Console.WriteLine("---------------  ------------  ---------- ");
+                Console.WriteLine("---------------  ------------  -----_----- ");
 
                 // 2. print necessary columns of each  record
 
